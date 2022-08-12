@@ -1,5 +1,8 @@
-.idea
+.idea/
 pybo.db
 *.pyc
-__pycache__
-migrations
+__pycache__/
+migrations/
+
+
+# End of https://www.toptal.com/developers/gitignore/api/windows
