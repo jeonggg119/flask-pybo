@@ -3,6 +3,7 @@ pybo.db
 *.pyc
 __pycache__/
 migrations/
+logs/
 
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
