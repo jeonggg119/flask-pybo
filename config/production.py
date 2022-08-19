@@ -3,7 +3,7 @@ from logging.config import dictConfig
 
 SQLALCHEMY_DATABASE_URI = 'sqlite:///{}'.format(os.path.join(BASE_DIR, 'pybo.db'))
 SQLALCHEMY_TRACK_MODIFICATIONS = False
-SECRET_KEY = b'\xc7~\xd3\xc6\x11{*\x9e\xa6\xf8\xd9T\x83\xb8U\x85'
+SECRET_KEY = b'\xa9\xeb\xa9\xd8\x96KK\xc8$\x80\xdb\xd3t\xf7?\xc0'
 
 dictConfig({
     'version': 1,
